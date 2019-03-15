@@ -13,8 +13,10 @@ There are couple of things that you need to do to the dock
 This will both optmize the screen for space and takes up consistent place like Gnome dock on Debian. 
 
 ## Finder
-Copying the current directory's path to the clipboard `Option` + `Command` + `C`  
-To Toggle hidden files and folders `Command` + `Shift` + `.`  
 
-To quickly jump to a particular location on finder `Command` + `Shift` + `g`  
-To quickly jump to the home in finder `Command` + `Shift` + `h`  
+| Description | Command|
+|-------------|---------
+|Copying the current directory's path to the clipboard| `Command` + `Option` + `C`|  
+|To Toggle hidden files and folders| `Command` + `Shift` + `.`|  
+|To quickly jump to a particular location on finder| `Command` + `Shift` + `g`|  
+|To quickly jump to the home in finder| `Command` + `Shift` + `h`|  
