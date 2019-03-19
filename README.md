@@ -20,3 +20,9 @@ This will both optmize the screen for space and takes up consistent place like G
 |To Toggle hidden files and folders| `Command` + `Shift` + `.`|  
 |To quickly jump to a particular location on finder| `Command` + `Shift` + `g`|  
 |To quickly jump to the home in finder| `Command` + `Shift` + `h`|  
+
+
+## Terminal
+| Description | Command|
+|-------------|--------|
+|To open the current terminal folder in finder| `open .`|
