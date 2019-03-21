@@ -2,6 +2,8 @@
 
 ## Dock
 
+First, remove all the default and unused apps from the dock.
+
 There are couple of things that you need to do to the dock
 
 1. Move the Dock to the left side of the screen. 
