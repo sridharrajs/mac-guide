@@ -1,5 +1,16 @@
 # Mac-guide
 
+## Key mapping
+
+You need to recognize symbols to apply shortcuts
+
+|Symbol|Key|
+|------|---|
+|`⌘`| Command|
+|`⌃`| Control|
+|`⌥`| Options/Meta|
+|`⇧`| Shift|
+
 ## Dock
 
 First, remove all the default and unused apps from the dock.
