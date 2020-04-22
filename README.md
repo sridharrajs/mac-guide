@@ -22,8 +22,14 @@ There are couple of things that you need to do to the dock
 
 <img width="666" alt="doc" src="https://user-images.githubusercontent.com/1156953/53544929-cd09c180-3b4d-11e9-81c3-864436fccaa9.png">
 
-
 This will both optmize the screen for space and takes up consistent place like Gnome dock on Debian. 
+
+## Utility
+
+|Description| Command |
+|-----------|---------|
+| To take a screenshot | `Command` + `Shift` + `3`|
+| To selectively screenshot | `Command` + `Shift` + `4`|
 
 ## Finder
 
