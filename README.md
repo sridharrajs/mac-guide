@@ -30,6 +30,7 @@ This will both optmize the screen for space and takes up consistent place like G
 |-----------|---------|
 | To take a screenshot | `Command` + `Shift` + `3`|
 | To selectively screenshot | `Command` + `Shift` + `4`|
+| To take a screenshot of the touch bar alone | `Command` + `Shift` + `6`|
 
 ## Finder
 
