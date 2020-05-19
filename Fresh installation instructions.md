@@ -5,10 +5,9 @@ List of instructions that you need to do on a fresh Mac
 By default, when you initiate a search, Mac will start searching the entire computer. To restrict it to your current folder.
 > Finder => Preferences. Choose `Advanced` Tab
 
-<img width="384" alt="finder preference" src="https://user-images.githubusercontent.com/1156953/82302864-caf08480-99d7-11ea-872c-ac7b25a5133a.png">
+<img width="384" alt="finder preference" src="https://user-images.githubusercontent.com/1156953/82303983-54ed1d00-99d9-11ea-93d2-54ae48f3fd47.png">
 
 Set “Search the Current Folder” as the option in the “When performing a search:” dropdown menu. 
-
 
 ## Trackpad
 
