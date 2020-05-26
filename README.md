@@ -13,18 +13,18 @@ You need to recognize symbols to apply shortcuts
 
 ## Dock
 
-First, remove all the default and unused apps from the dock.
+First, remove **all the default and unused apps** from the dock.
 
 There are couple of things that you need to do to the dock
 
-1. Move the Dock to the left side of the screen. 
+1. Move the Dock to the left side of the screen. This is to be similar to that [GNOME dock on My Debian setup](https://github.com/sridharrajs/debian-guide). This way we'll be able to use the full height of the screen for web development.
 2. Reduce the size of the Dock
 
 <img width="666" alt="doc" src="https://user-images.githubusercontent.com/1156953/53544929-cd09c180-3b4d-11e9-81c3-864436fccaa9.png">
 
-This will both optmize the screen for space and takes up consistent place like Gnome dock on Debian. 
+This way I've optimized the screen for both space and attention.
 
-## Utility
+## ScreenShot Utility
 
 |Description| Command |
 |-----------|---------|

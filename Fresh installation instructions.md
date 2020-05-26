@@ -9,6 +9,18 @@ By default, when you initiate a search, Mac will start searching the entire comp
 
 Set “Search the Current Folder” as the option in the “When performing a search:” dropdown menu. 
 
+
+## Keyboard
+
+The Touch bar is a distraction if you are constantly switching between different OS. To turn it off.
+
+> System Preference => Keyboard. Choose `Keyboard` Tab
+
+<img width="672" alt="Screenshot 2020-05-24 at 12 21 01 PM" src="https://user-images.githubusercontent.com/1156953/82747692-5fccf680-9db9-11ea-985b-df743411c53a.png">
+
+Set “F1, F2, etc. Keys” as the option in the “Touch Bar shows” dropdown menu. 
+
+
 ## Trackpad
 
 Search `trackpad` on spotlight and set the following things
