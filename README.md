@@ -1,5 +1,14 @@
 # Mac-guide
 
+## Configuration
+
+Following are the configuration managed externally in a different repo.
+
+|Component| Repo |
+|---------|------|
+| dotfiles| [dotfiles](https://github.com/sridharrajs/dotfiles) |
+| emacs | [emacs.d](https://github.com/sridharrajs/emacs.d) |
+
 ## Key mapping
 
 You need to recognize symbols to apply shortcuts
